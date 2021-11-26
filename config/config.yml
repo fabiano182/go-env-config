@@ -1,0 +1,11 @@
+# Example of YAML config file
+
+server:
+        host: "localhost"
+        port: 8000
+
+database:
+        host: "localhost"
+        port: "5432"
+        user: "admin"
+        pass: "admin123@@"
